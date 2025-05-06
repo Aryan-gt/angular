@@ -1,0 +1,5 @@
+ npm install -g @angular/cli@latest
+ ng new part-c(filename)
+ select this css  https://developer.mozilla.org/docs/Web/CSS                           
+cd part-c
+ng serve
